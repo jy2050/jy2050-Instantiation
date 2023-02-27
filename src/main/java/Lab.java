@@ -17,6 +17,7 @@ public class Lab {
      *
      * @return any object.
      */
+    // add testing
     public Object instantiateANewObject(){
         return new String("Hello, world!");
     }
